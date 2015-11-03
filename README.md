@@ -1,0 +1,2 @@
+# rendszert
+A rendszerfejlesztés technológiája
