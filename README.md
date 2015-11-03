@@ -1,2 +1,2 @@
 # rendszert
-A rendszerfejlesztés technológiája
+A rendszerfejlesztés technológiája xcyxcyxc
